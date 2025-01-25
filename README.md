@@ -5,7 +5,7 @@
 #### Email: ecoker1226@my.msutexas.edu
 
 #### Image:
-<img src="https://drive.google.com/file/d/1RohDadd4-OI12ffa2JWMVQ5ZIjVy0rJT/view?usp=sharing">
+![IMG_20240101_223038_756](https://github.com/user-attachments/assets/ed493d53-e00c-41c4-bf09-aa8b1e6fcd3b)
 
 #### Avatar:
-<img src="https://drive.google.com/file/d/1RtY-juPOAFwspFmaePAxu7aBSDKeD2pr/view?usp=sharing">
+![IMG_20250121_171153_610](https://github.com/user-attachments/assets/da71113e-1c18-4500-96be-7903ad206f1e)
