@@ -1,7 +1,7 @@
 | Celebration of Scholorship Talk |
 | :--------------------------------------------------------------------------------------------------------: |
 | <img src="https://images2.imgbox.com/ea/6e/VP2nDJ32_o.jpg" width="400"> |
-| This is Grabiel talking about how he utilized chunking in his project. |
+| This is Grabiel talking about how he utilized chunking in his MSU chatbot project. |
 
 | Celebration of Scholorship Poster |
 | :--------------------------------------------------------------------------------------------------------: |
