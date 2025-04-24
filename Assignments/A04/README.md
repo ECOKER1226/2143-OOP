@@ -1,6 +1,6 @@
 |                                       Celebration of Scholorship Talk                                      |
 | :--------------------------------------------------------------------------------------------------------: |
-| <img src="https://drive.google.com/file/d/166eg8ZMtgnP6Jxc2E1TJrnlalPGZC9We/view?usp=sharing" width="400"> |
+| <img src="https://images2.imgbox.com/ea/6e/VP2nDJ32_o.jpg" width="400"> |
 |                   This is Grabiel talking about how he utilized chunking in his project.                   |
 
 |                                      Celebration of Scholorship Poster                                     |
