@@ -5,5 +5,5 @@
 
 | Celebration of Scholorship Poster |
 | :--------------------------------------------------------------------------------------------------------: |
-| <img src="https://thumbs2.imgbox.com/05/4b/Yx0e400R_t.jpg" width="600"> |
+| <img src="https://images2.imgbox.com/05/4b/Yx0e400R_o.jpg" width="600"> |
 | This is a poster about fossil plants from the Permian Colwell Creek Pond locality, Foard County, Texas |
