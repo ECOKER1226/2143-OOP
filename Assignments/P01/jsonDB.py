@@ -68,18 +68,17 @@ class JsonDB:
                 return record
         return None
 
-if __name__ == "__main__":
-    with open("NESGames.json") as f:
-        jdata = json.load(f)
+if __name__ == "main":
+    db = JsonDB("random_people.10000.json")
 
-    # print the length of the list
-    print(len(jdata))
+    print("Initial Data:", db.read())
 
-    # print the tenth game in the list
-    print(jdata[10])
+    db.create({"id": 1, "name": "Alice", "email": "alice@example.com"})
+    db.create({"id": 2, "name": "Bob", "email": "bob@example.com"})
+    print("After Insertions:", db.read())
 
-    # add id to each game
-    for i,NESGames in enumerate(jdata):
-        # print(NESGames.keys())
-        NESGames['id'] = i
-        print(NESGames)
+    db.update(2, {"email": "updated_bob@example.com"})
+    print("After Update:", db.read())
+
+    db.delete(1)
+    print("After Deletion:", db.read())
