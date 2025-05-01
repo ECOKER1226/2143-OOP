@@ -10,5 +10,5 @@
 | H04 | https://github.com/ECOKER1226/2143-OOP/tree/main/Assignments/H04 | Polymorphism |
 | H05 | https://github.com/ECOKER1226/2143-OOP/tree/main/Assignments/H05 | Abstraction |
 | H06 | https://github.com/ECOKER1226/2143-OOP/tree/main/Assignments/H06 | Composition |
-| H07 | https://github.com/ECOKER1226/2143-OOP/tree/main/Assignments/H07 | |
+| H07 | https://github.com/ECOKER1226/2143-OOP/tree/main/Assignments/H07 | DRY, KISS, SOLID |
 | P01 | https://github.com/ECOKER1226/2143-OOP/tree/main/Assignments/P01 | |
