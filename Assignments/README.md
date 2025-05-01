@@ -3,7 +3,7 @@
 |  #  | Folder Link | Assignment Description |
 | :-: | ----------- | ---------------------- |
 |  0  | link 0      | description 0          |
-| A04 | https://github.com/ECOKER1226/2143-OOP/tree/main/Assignments/A04 | |
+| A04 | https://github.com/ECOKER1226/2143-OOP/tree/main/Assignments/A04 | Celebration of Scholorship |
 | H01 | https://github.com/ECOKER1226/2143-OOP/tree/main/Assignments/H01 | |
 | H02 | https://github.com/ECOKER1226/2143-OOP/tree/main/Assignments/H02 | |
 | H03 | https://github.com/ECOKER1226/2143-OOP/tree/main/Assignments/H03 | |
