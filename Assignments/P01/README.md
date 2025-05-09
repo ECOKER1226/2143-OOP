@@ -1,8 +1,8 @@
 ## Json Database Project
 
-## Ezekiel Coker
+### Ezekiel Coker
 
-## Project Description (It needs to be "descriptive". You can take text straight from the assignment / requirements. I don't care.)
+### Project Description (It needs to be "descriptive". You can take text straight from the assignment / requirements. I don't care.)
 
 |  #  | File | Description |
 | :-: | ----------- | ---------------------- |
