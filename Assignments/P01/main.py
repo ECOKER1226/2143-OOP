@@ -21,7 +21,7 @@
         - Typing this in the terminal will allow you to access the menu.
 
   Files:
-        main.py                     : main menu file
+        main.py                     : main driver
         jsonDB.py                   : parent class file
         peopleDB.py                 : child class file
         random_people.10000.json    : json file
