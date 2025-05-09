@@ -12,9 +12,7 @@
         operations, handling file interactions and ensuring data integrity.
         Building on this, the PeopleDB subclass specializes in managing
         "people" data, allowing searches by attributes like name, phone,
-        email, and location. With a modular design, the system is easy to
-        maintain, extend, and test through if __name__ == "main":,
-        working directly with real data in random_people.10000.json.
+        email, and location.
 
   Usage:
         - python main.py
