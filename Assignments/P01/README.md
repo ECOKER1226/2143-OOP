@@ -4,17 +4,11 @@
 
 |  #  | File | Description |
 | :-: | ----------- | ---------------------- |
-|  | [main.py](https://github.com/ECOKER1226/2143-OOP/blob/main/Assignments/P01/main.py) |  |
-|  | [jsonDB.py](https://github.com/ECOKER1226/2143-OOP/blob/main/Assignments/P01/jsonDB.py) |  |
-|  | [peopleDB.py](https://github.com/ECOKER1226/2143-OOP/blob/main/Assignments/P01/peopleDB.py) |  |
-|  | [random_people.10000.json](https://github.com/ECOKER1226/2143-OOP/blob/main/Assignments/P01/random_people.10000.json) |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| 1 | [main.py](https://github.com/ECOKER1226/2143-OOP/blob/main/Assignments/P01/main.py) |  |
+| 2 | [jsonDB.py](https://github.com/ECOKER1226/2143-OOP/blob/main/Assignments/P01/jsonDB.py) |  |
+| 3 | [peopleDB.py](https://github.com/ECOKER1226/2143-OOP/blob/main/Assignments/P01/peopleDB.py) |  |
+| 4 | [random_people.10000.json](https://github.com/ECOKER1226/2143-OOP/blob/main/Assignments/P01/random_people.10000.json) |  |
 
-After table:
-Instructions
-Any and all information needed to run your code.
-These instructions will be used for others in the class to run your project on their machine. I PROMISE: you will learn very fast how not to assume things just work. Because they DON'T. When your code doesn't run on anyone elses system and you get a zero, I bet you start to let "assumptions" go out the window.
+###Instructions
+####- python main.py
+####- Typing this in the terminal will allow you to access the menu.
