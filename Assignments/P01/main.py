@@ -22,8 +22,8 @@
 
   Files:
         main.py                     : main driver file
-        jsonDB.py                   : parent class file
-        peopleDB.py                 : child class file
+        jsonDB.py                   : superclass file
+        peopleDB.py                 : subclass file
         random_people.10000.json    : json file
 """
 
