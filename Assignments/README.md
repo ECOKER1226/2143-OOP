@@ -1,6 +1,6 @@
 ## Assignments
 
-## Ezekiel Coker
+### Ezekiel Coker
 
 |  #  | Folder Link | Assignment Description |
 | :-: | ----------- | ---------------------- |
