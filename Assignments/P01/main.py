@@ -22,7 +22,7 @@
         main.py                     : main driver file
         jsonDB.py                   : superclass file
         peopleDB.py                 : subclass file
-        random_people.10000.json    : json file
+        random_people.10000.json    : json database file
 """
 
 import json
