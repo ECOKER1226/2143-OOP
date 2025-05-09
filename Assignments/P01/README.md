@@ -6,7 +6,7 @@
 | :-: | ----------- | ---------------------- |
 |  | [main.py](https://github.com/ECOKER1226/2143-OOP/blob/main/Assignments/P01/main.py) |  |
 |  | [jsonDB.py](https://github.com/ECOKER1226/2143-OOP/blob/main/Assignments/P01/jsonDB.py) |  |
-|  |  |  |
+|  | [peopleDB.py](https://github.com/ECOKER1226/2143-OOP/blob/main/Assignments/P01/peopleDB.py) |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
