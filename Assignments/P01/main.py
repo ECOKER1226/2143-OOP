@@ -1,3 +1,32 @@
+"""
+  Author:           Ezekiel Coker
+  Email:            erycoker23@my.msutexas.edu
+  Label:            P01
+  Title:            Json Database Project
+  Course:           CMPS 2143
+  Semester:         Spring 2025
+
+  Description:
+        This program implements a JSON-based database system for managing
+        structured user records. The JsonDB class provides essential CRUD
+        operations, handling file interactions and ensuring data integrity.
+        Building on this, the PeopleDB subclass specializes in managing
+        "people" data, allowing searches by attributes like name, phone,
+        email, and location. With a modular design, the system is easy to
+        maintain, extend, and test through if __name__ == "main":,
+        working directly with real data in random_people.10000.json.
+
+  Usage:
+        - python main.py
+        - Typing this in the terminal will allow you to access the menu.
+
+  Files:
+        main.py                     : main menu file
+        jsonDB.py                   : parent class file
+        peopleDB.py                 : child class file
+        random_people.10000.json    : json file
+"""
+
 import json
 import os
 import re
