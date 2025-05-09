@@ -17,6 +17,6 @@ email, and location.
 | 3 | [peopleDB.py](https://github.com/ECOKER1226/2143-OOP/blob/main/Assignments/P01/peopleDB.py) | Subclass file |
 | 4 | [random_people.10000.json](https://github.com/ECOKER1226/2143-OOP/blob/main/Assignments/P01/random_people.10000.json) | Json database file |
 
-###Instructions
+### Instructions
    - python main.py
    - Typing this in the terminal will allow you to access the menu.
