@@ -1,5 +1,7 @@
 ## Assignments
 
+## Ezekiel Coker
+
 |  #  | Folder Link | Assignment Description |
 | :-: | ----------- | ---------------------- |
 | 1 | [A04](https://github.com/ECOKER1226/2143-OOP/tree/main/Assignments/A04) | Celebration of Scholorship |
